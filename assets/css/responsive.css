@@ -1,0 +1,46 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 1200px) {}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+/* Medium Layout: 991px. */
+
+@media only screen and (max-width: 991px) {
+
+   
+
+}
+
+
+/*tablet layout*/
+
+@media only screen and (max-width: 768px) {
+    
+}
+
+/* Wide Mobile Layout: 480px+. */
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {}
+
+/* Extra Small Mobile Layout: 480px. */
+
+@media only screen and (max-width: 479px) {
+   
+
+
+
+
+
+}
+
+@media only screen and (max-height: 400px) {
+
+
+
+
+}
